@@ -63,4 +63,4 @@ else if (findFirstVowel(sWord)!=0 && findFirstVowel(sWord)!=-1 )
  }  
  return "error";
     }
-
+}
